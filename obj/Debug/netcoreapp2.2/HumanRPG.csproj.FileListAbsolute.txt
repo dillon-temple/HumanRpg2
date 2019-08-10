@@ -1,0 +1,11 @@
+/Users/momo/Desktop/HumanRPG/bin/Debug/netcoreapp2.2/HumanRPG.deps.json
+/Users/momo/Desktop/HumanRPG/bin/Debug/netcoreapp2.2/HumanRPG.runtimeconfig.json
+/Users/momo/Desktop/HumanRPG/bin/Debug/netcoreapp2.2/HumanRPG.runtimeconfig.dev.json
+/Users/momo/Desktop/HumanRPG/bin/Debug/netcoreapp2.2/HumanRPG.dll
+/Users/momo/Desktop/HumanRPG/bin/Debug/netcoreapp2.2/HumanRPG.pdb
+/Users/momo/Desktop/HumanRPG/obj/Debug/netcoreapp2.2/HumanRPG.csprojAssemblyReference.cache
+/Users/momo/Desktop/HumanRPG/obj/Debug/netcoreapp2.2/HumanRPG.csproj.CoreCompileInputs.cache
+/Users/momo/Desktop/HumanRPG/obj/Debug/netcoreapp2.2/HumanRPG.AssemblyInfoInputs.cache
+/Users/momo/Desktop/HumanRPG/obj/Debug/netcoreapp2.2/HumanRPG.AssemblyInfo.cs
+/Users/momo/Desktop/HumanRPG/obj/Debug/netcoreapp2.2/HumanRPG.dll
+/Users/momo/Desktop/HumanRPG/obj/Debug/netcoreapp2.2/HumanRPG.pdb
